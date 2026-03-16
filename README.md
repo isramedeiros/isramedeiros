@@ -1,6 +1,6 @@
 # Hi, I'm Israel 👋
 
-💻 Software Engineer focused on back-end development.
+💻 Software Developer focused on back-end development.
 
 I build practical systems to solve real problems. Most of my work revolves around REST APIs and databases.
 
