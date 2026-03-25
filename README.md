@@ -6,16 +6,16 @@ I build practical systems to solve real problems. Most of my work revolves aroun
 
 ## 🚀 Tech Stack
 
-**Backend**
+**Backend:**
 Java | Spring Boot | Maven | Python
 
-**Databases**
+**Databases:**
 MySQL | MongoDB | Oracle | Firebase
 
-**Web**
+**Web:**
 HTML | CSS | JavaScript
 
-**Tools**
+**Tools:**
 Git/GitHub | Docker | Linux | Bash/Zash | Homebrew (MacOS) | Winget | IntelliJ
 
 ## 🧠 Currently Working On
