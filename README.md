@@ -1,8 +1,6 @@
 # Hi, I'm Israel 👋
 
-💻 Software Developer focused on back-end development.
-
-I build practical systems to solve real problems. Most of my work revolves around REST APIs and databases. I'm open to collaborating on backend projects involving Java/Spring Boot, APIs and system integrations.
+💻 Software Developer focused on Cybersecurity and Network Engineering.
 
 ## 🚀 Tech Stack
 
@@ -13,15 +11,14 @@ Java | Spring Boot | Maven | Python
 MySQL | MongoDB | Oracle | Firebase
 
 **Web:**
-HTML | CSS | JavaScript
+HTML | CSS | JavaScript | Typescript
 
 **Tools:**
 Git/GitHub | Docker | Linux | Bash/Zash | Homebrew (MacOS) | Winget | IntelliJ
 
 ## 🧠 Currently Working On
 
-- **Theocash** – a fullstack fintech project. Our goal is to be minimalist but solid;
-- **JobfinderBot** - a Telegram Bot to find jobs using Jobicy API.
+- **CCNA Certification Preparation** - Networks, TCP/IP, OSI Layers, Switches, Routers, Cisco CLI and more.
 
 ## 📫 Contact
 
