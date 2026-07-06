@@ -27,12 +27,12 @@ Sou um **Analista de Sistemas com foco em Suporte de TI e Cybersecurity**, atual
 
 Aqui está o que estou estudando atualmente para o CCNA:
 
-**Fundamentos de Rede** (Classes de endereços IP, Sub-redes, Cabeamento, modelos OSI/TCP-IP)
-**Acesso à Rede** (VLANs, conectividade interswitch, EtherChannel, APs, WLCs)
-**Conectividade IP** (Roteamento IPv4/IPv6, OSPFv2)
-**Serviços IP** (NAT, NTP, DHCP, DNS, SNMP, Syslog, SSH)
-**Fundamentos de Segurança** (Port Security, DHCP Snooping, Dynamic ARP Inspection, Listas de Controle de Acesso - ACLs)
-**Automação e Programabilidade** (JSON, YAML, APIs REST em redes, Puppet/Chef/Ansible)
+| **Fundamentos de Rede** | (Classes de endereços IP, Sub-redes, Cabeamento, modelos OSI/TCP-IP) |
+| **Acesso à Rede** | (VLANs, conectividade interswitch, EtherChannel, APs, WLCs) |
+| **Conectividade IP** | (Roteamento IPv4/IPv6, OSPFv2) |
+| **Serviços IP** | (NAT, NTP, DHCP, DNS, SNMP, Syslog, SSH) |
+| **Fundamentos de Segurança** | (Port Security, DHCP Snooping, Dynamic ARP Inspection, Listas de Controle de Acesso - ACLs) |
+| **Automação e Programabilidade** | (JSON, YAML, APIs REST em redes, Puppet/Chef/Ansible) |
 
 ---
 
@@ -40,10 +40,10 @@ Aqui está o que estou estudando atualmente para o CCNA:
 
 <p align="left">
   <a href="https://github.com/isramedeiros">
-    <img src="https://github-readme-stats-eight.vercel.app/api?username=isramedeiros&show_icons=true&theme=nord&count_private=true" alt="Israel's GitHub Stats" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api?username=isramedeiros&show_icons=true&theme=nord&count_private=true" alt="Israel's GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/isramedeiros">
-    <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=isramedeiros&layout=compact&theme=nord" alt="Top Languages" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isramedeiros&layout=compact&theme=nord" alt="Top Languages" height="150" />
   </a>
 </p>
 
