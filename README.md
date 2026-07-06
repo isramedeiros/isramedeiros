@@ -23,16 +23,18 @@ Sou um **Analista de Sistemas com foco em Suporte de TI e Cybersecurity**, atual
 
 ---
 
-### 📚 Progresso no CCNA
+### 📚 Acompanhamento do Progresso do CCNA
 
-Aqui está o que estou estudando atualmente para o CCNA:
+Aqui está o status dos meus estudos para a certificação CCNA:
 
-| **Fundamentos de Rede** | (Classes de endereços IP, Sub-redes, Cabeamento, modelos OSI/TCP-IP) |
-| **Acesso à Rede** | (VLANs, conectividade interswitch, EtherChannel, APs, WLCs) |
-| **Conectividade IP** | (Roteamento IPv4/IPv6, OSPFv2) |
-| **Serviços IP** | (NAT, NTP, DHCP, DNS, SNMP, Syslog, SSH) |
-| **Fundamentos de Segurança** | (Port Security, DHCP Snooping, Dynamic ARP Inspection, Listas de Controle de Acesso - ACLs) |
-| **Automação e Programabilidade** | (JSON, YAML, APIs REST em redes, Puppet/Chef/Ansible) |
+| Tópico | Detalhes / Tecnologias Estudadas | Status |
+| :--- | :--- | :---: |
+| **Fundamentos de Rede** | Classes de endereços IP, Sub-redes, Cabeamento, modelos OSI/TCP-IP | ✅ Concluído |
+| **Acesso à Rede** | VLANs, conectividade interswitch, EtherChannel, APs, WLCs | ⏳ Planejado |
+| **Conectividade IP** | Roteamento IPv4/IPv6, OSPFv2 | ⏳ Planejado |
+| **Serviços IP** | NAT, NTP, DHCP, DNS, SNMP, Syslog, SSH | ⏳ Planejado |
+| **Fundamentos de Segurança** | Port Security, DHCP Snooping, Dynamic ARP Inspection, Listas de Controle de Acesso (ACLs) | ⏳ Planejado |
+| **Automação e Programabilidade** | JSON, YAML, APIs REST em redes, Puppet/Chef/Ansible | ⏳ Planejado |
 
 ---
 
