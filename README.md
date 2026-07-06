@@ -34,7 +34,6 @@ Aqui está o status dos meus estudos para a certificação CCNA:
 | **Conectividade IP** | Roteamento IPv4/IPv6, OSPFv2 |
 | **Serviços IP** | NAT, NTP, DHCP, DNS, SNMP, Syslog, SSH |
 | **Fundamentos de Segurança** | Port Security, DHCP Snooping, Dynamic ARP Inspection, Listas de Controle de Acesso (ACLs) |
-| **Automação e Programabilidade** | JSON, YAML, APIs REST em redes, Puppet/Chef/Ansible |
 
 ---
 
