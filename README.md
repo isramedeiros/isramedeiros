@@ -1,43 +1,57 @@
-# Oi, eu sou o Israel! 👋
+# Hi there, I'm Israel Medeiros! 👋
 
-Sou um **Analista de Sistemas com foco em Suporte de TI e Cybersecurity**, atualmente estudando para obter a certificação **Cisco CCNA (200-301)**. Tenho uma base sólida em desenvolvimento de sistemas e meu interesse agora é colocar em prática minhas habilidades em engenharia de redes, administração de sistemas e segurança de ambientes corporativos.
+**Systems & Infrastructure Analyst**
 
----
-
-### 🛡️ Foco Principal
-
-*   **Redes:** Estudando para a certificação **Cisco CCNA (200-301)**. Aprofundando em TCP/IP, camadas OSI, roteamento, comutação (switching), endereçamento IP/sub-redes e automação de redes.
-*   **Suporte de TI e Sistemas:** Solução de problemas (troubleshooting), administração de sistemas operacionais (Linux/Bash, macOS, Windows/Winget) e configuração de ambientes.
-*   **Cybersecurity:** Fundamentos de segurança, controle de acesso, codificação segura e segurança de contêineres (Docker).
+I am a technical professional with a solid foundation in computer networks, Linux systems administration, and cloud infrastructure. Currently preparing for the Cisco CCNA certification and actively studying and practicing DevOps principles, I combine hands-on IT engineering skills with a professional journalism background—allowing me to investigate complex issues methodically, translate business needs into technical solutions, and communicate clearly under pressure.
 
 ---
 
-### 🛠️ Tecnologias/Habilidades
+### 🛡️ Core Focus & Approach
+I am passionate about open-source technologies, infrastructure reliability, and helping organizations optimize their systems, networks, and automated workflows.
 
-| Domínio | Tecnologias |
+- **Systems & Linux:** Focused on Linux systems administration, system configuration, and scripting (Bash, PowerShell) to ensure stable and healthy environments.
+- **Client Advisory & Technical Enablement:** Experienced in client-facing roles, managing stakeholder relationships, onboarding enterprise clients, and reducing support friction through clear technical writing.
+- **Analytical Troubleshooting:** Drawing from my investigative journalism roots, I excel at troubleshooting root-cause issues under tight deadlines and communicating technical concepts clearly to both technical teams and business stakeholders.
+
+---
+
+### 🎯 Key Competencies
+
+*   **Technical Advisory & Onboarding:** Translating business requirements into system hosting and networking specifications.
+*   **Root-Cause Analysis & Troubleshooting:** Methodical investigation of system behavior, network connectivity, and log files.
+*   **Technical Writing & Documentation:** Authoring user guides and manuals to streamline support and foster client self-sufficiency.
+*   **Stakeholder & Crisis Management:** Communicating complex issues clearly under tight deadlines and resolving critical escalation paths.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Redes** | Cisco CLI, Packet Tracer, TCP/IP, Roteamento e Comutação, DNS/DHCP, Sub-redes (Subnetting) |
-| **Segurança e Sistemas** | Admin Linux, Scripting em Bash, Docker, Git/GitHub, Windows/MacOS |
-| **Backend e Automação** | Java, Spring Boot, Maven, Python, APIs RESTful |
-| **Bancos de Dados** | SQL, MySQL, MongoDB, Oracle Database, Firebase |
+| **Operating Systems & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white) Windows Active Directory, macOS, Virtual Machines |
+| **Networking & Protocols** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) TCP/IP, OSI Model, Routing & Switching, VLANs, DNS/DHCP, NAT, Subnetting |
+| **Scripting & Automation** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) Python, Git/GitHub |
+| **Containers & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) (EC2, basic VPC, Security Groups), CI/CD Basics |
+| **Software & Databases** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Spring Boot, REST APIs, SQL (Oracle, MySQL), MongoDB, Firebase |
+| **Advisory & Communication** | Technical writing (user manuals/documentation), client onboarding, stakeholder management, crisis response |
 
 ---
 
-### 📚 Acompanhamento do Progresso do CCNA
+### 📚 Certification & Continuous Learning Tracker
 
-Aqui está o status dos meus estudos para a certificação CCNA:
+I am actively expanding my knowledge base to support enterprise-level systems:
 
-| Tópico | Detalhes / Tecnologias Estudadas |
+| Certifications & Studies | Status / Details |
 | :--- | :--- |
-| **Fundamentos de Rede** | Classes de endereços IP, Sub-redes, Cabeamento, modelos OSI/TCP-IP |
-| **Acesso à Rede** | VLANs, conectividade interswitch, EtherChannel, APs, WLCs |
-| **Conectividade IP** | Roteamento IPv4/IPv6, OSPFv2 |
-| **Serviços IP** | NAT, NTP, DHCP, DNS, SNMP, Syslog, SSH |
-| **Fundamentos de Segurança** | Port Security, DHCP Snooping, Dynamic ARP Inspection, Listas de Controle de Acesso (ACLs) |
+| **Cisco Certified Network Associate (CCNA 200-301)** | **In Progress** - Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI). |
+| **DevOps Principles & Practices** | **In Progress** - Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation. |
+| **Cybersecurity 101 (TryHackMe)** | **In Progress** - Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals. |
+| **Cloud Infrastructure (Alura / AWS)** | **Completed** - AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management. |
+| **Java Programming & OOP (Udemy / FIAP)** | **Completed** - Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases. |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Activity & Stats
 
 <p align="left">
   <a href="https://github.com/isramedeiros">
@@ -50,7 +64,7 @@ Aqui está o status dos meus estudos para a certificação CCNA:
 
 ---
 
-### 🤝 Conecte-se Comigo
+### 🤝 Let's Connect
 
 *   **LinkedIn:** [linkedin.com/in/israelmedeiros/](https://www.linkedin.com/in/israelmedeiros/)
 *   **E-mail:** [israelmfreitas12@gmail.com](mailto:israelmfreitas12@gmail.com)
