@@ -1,8 +1,8 @@
-# Hi there, I'm Israel Medeiros! 👋
+# Hi there, I'm Israel! 👋
 
 **Systems & Infrastructure Analyst**
 
-I am a technical professional with a solid foundation in computer networks, Linux systems administration, and cloud infrastructure. Currently preparing for the Cisco CCNA certification and actively studying and practicing DevOps principles, I combine hands-on IT engineering skills with a professional journalism background—allowing me to investigate complex issues methodically, translate business needs into technical solutions, and communicate clearly under pressure.
+I am a technical professional with a solid foundation in computer networks, currently studying Linux systems administration and cloud infrastructure. I'm also preparing for the Cisco CCNA certification and actively studying and practicing DevOps principles. I combine hands-on IT engineering skills with a professional journalism background—allowing me to investigate complex issues methodically, translate business needs into technical solutions, and communicate clearly under pressure.
 
 ---
 
