@@ -28,7 +28,7 @@ I am passionate about open-source technologies, infrastructure reliability, and 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Operating Systems & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white) Windows Active Directory, macOS, Virtual Machines |
+| **Operating Systems & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Windows Active Directory, macOS, Virtual Machines |
 | **Networking & Protocols** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) TCP/IP, OSI Model, Routing & Switching, VLANs, DNS/DHCP, NAT, Subnetting |
 | **Scripting & Automation** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) Python, Git/GitHub |
 | **Containers & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) (EC2, basic VPC, Security Groups), CI/CD Basics |
