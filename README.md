@@ -9,7 +9,7 @@ I am a technical professional with a solid foundation in computer networks, curr
 ### 🛡️ Core Focus & Approach
 I am passionate about open-source technologies, infrastructure reliability, and helping organizations optimize their systems, networks, and automated workflows.
 
-- **Systems & Linux:** Focused on Linux systems administration, system configuration, and scripting (Bash, PowerShell) to ensure stable and healthy environments.
+- **Systems & Linux:** Focused on Linux systems administration and system configuration, while actively studying and practicing scripting (Bash, PowerShell) to automate tasks and ensure stable environments.
 - **Client Advisory & Technical Enablement:** Experienced in client-facing roles, managing stakeholder relationships, onboarding enterprise clients, and reducing support friction through clear technical writing.
 - **Analytical Troubleshooting:** Drawing from my investigative journalism roots, I excel at troubleshooting root-cause issues under tight deadlines and communicating technical concepts clearly to both technical teams and business stakeholders.
 
@@ -30,7 +30,7 @@ I am passionate about open-source technologies, infrastructure reliability, and 
 | :--- | :--- |
 | **Operating Systems & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Windows Active Directory, macOS, Virtual Machines |
 | **Networking & Protocols** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) TCP/IP, OSI Model, Routing & Switching, VLANs, DNS/DHCP, NAT, Subnetting |
-| **Scripting & Automation** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) Python, Git/GitHub |
+| **Scripting & Automation** | *(Currently learning)*: ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) Python <br> *(Used)*: Git/GitHub |
 | **Containers & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) (EC2, basic VPC, Security Groups), CI/CD Basics |
 | **Software & Databases** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Spring Boot, REST APIs, SQL (Oracle, MySQL), MongoDB, Firebase |
 | **Advisory & Communication** | Technical writing (user manuals/documentation), client onboarding, stakeholder management, crisis response |
