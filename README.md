@@ -2,26 +2,65 @@
 
 ### Tech Stack & Skills
 
-| | | |
-| :--- | :--- | :--- |
-| **Operating Systems & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Windows Active Directory, macOS, Virtual Machines |
-| **Networking & Protocols** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | TCP/IP, OSI Model, Routing & Switching, VLANs, DNS/DHCP, NAT, Subnetting |
-| **Scripting & Automation** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) | *Automation, shell scripting* |
-| **Containers & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | (EC2, basic VPC, Security Groups), CI/CD Basics |
-| **Software & Databases** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Spring Boot, REST APIs, SQL (Oracle, MySQL), MongoDB, Firebase |
-| **Advisory & Communication** | | Technical writing (user manuals/documentation), client onboarding, stakeholder management, crisis response |
+<table>
+  <tr>
+    <td width="30%"><b>Operating Systems & Infrastructure</b></td>
+    <td width="20%"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></td>
+    <td width="50%">Windows Active Directory, macOS, Virtual Machines</td>
+  </tr>
+  <tr>
+    <td><b>Networking & Protocols</b></td>
+    <td><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"></td>
+    <td>TCP/IP, OSI Model, Routing & Switching, VLANs, DNS/DHCP, NAT, Subnetting</td>
+  </tr>
+  <tr>
+    <td><b>Scripting & Automation</b></td>
+    <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"></td>
+    <td><i>Automation, shell scripting</i></td>
+  </tr>
+  <tr>
+    <td><b>Containers & Cloud</b></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"></td>
+    <td>(EC2, basic VPC, Security Groups), CI/CD Basics</td>
+  </tr>
+  <tr>
+    <td><b>Software & Databases</b></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></td>
+    <td>Spring Boot, REST APIs, SQL (Oracle, MySQL), MongoDB, Firebase</td>
+  </tr>
+  <tr>
+    <td><b>Advisory & Communication</b></td>
+    <td><img src="https://img.shields.io/badge/Advisory%20%26%20Communication-Professional-0052CC?style=flat-square&logo=readme&logoColor=white" alt="Advisory & Communication"></td>
+    <td>Technical writing (user manuals/documentation), client onboarding, stakeholder management, crisis response</td>
+  </tr>
+</table>
 
 ---
 
 ### Certification & Learning
 
-| | |
-| :--- | :--- |
-| **Cisco Certified Network Associate (CCNA 200-301)** | **In Progress** - Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI). |
-| **DevOps Principles & Practices** | **In Progress** - Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation. |
-| **Cybersecurity 101 (TryHackMe)** | **In Progress** - Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals. |
-| **Cloud Infrastructure (Alura / AWS)** | **Completed** - AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management. |
-| **Java Programming & OOP (Udemy / FIAP)** | **Completed** - Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases. |
+<table>
+  <tr>
+    <td width="40%"><b>Cisco Certified Network Associate (CCNA 200-301)</b></td>
+    <td width="60%"><b>In Progress</b> - Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI).</td>
+  </tr>
+  <tr>
+    <td><b>DevOps Principles & Practices</b></td>
+    <td><b>In Progress</b> - Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation.</td>
+  </tr>
+  <tr>
+    <td><b>Cybersecurity 101 (TryHackMe)</b></td>
+    <td><b>In Progress</b> - Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals.</td>
+  </tr>
+  <tr>
+    <td><b>Cloud Infrastructure (Alura / AWS)</b></td>
+    <td><b>Completed</b> - AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management.</td>
+  </tr>
+  <tr>
+    <td><b>Java Programming & OOP (Udemy / FIAP)</b></td>
+    <td><b>Completed</b> - Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases.</td>
+  </tr>
+</table>
 
 ---
 
