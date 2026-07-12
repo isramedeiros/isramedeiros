@@ -1,27 +1,5 @@
 # Hi there, I'm Israel! 👋
 
-**Systems & Infrastructure Analyst**
-
-I am a technical professional with a solid foundation in computer networks, currently studying Linux systems administration and cloud infrastructure. I'm also preparing for the Cisco CCNA certification and actively studying and practicing DevOps principles. I combine hands-on IT engineering skills with a professional journalism background—allowing me to investigate complex issues methodically, translate business needs into technical solutions, and communicate clearly under pressure.
-
----
-
-### 🛡️ Core Focus & Approach
-I am passionate about open-source technologies, infrastructure reliability, and helping organizations optimize their systems, networks, and automated workflows.
-
-- **Systems & Linux:** Focused on Linux systems administration and system configuration, while actively studying and practicing scripting (Bash, PowerShell) to automate tasks and ensure stable environments.
-- **Client Advisory & Technical Enablement:** Experienced in client-facing roles, managing stakeholder relationships, onboarding enterprise clients, and reducing support friction through clear technical writing.
-- **Analytical Troubleshooting:** Drawing from my investigative journalism roots, I excel at troubleshooting root-cause issues under tight deadlines and communicating technical concepts clearly to both technical teams and business stakeholders.
-
----
-
-### 🎯 Key Competencies
-
-*   **Technical Advisory & Onboarding:** Translating business requirements into system hosting and networking specifications.
-*   **Root-Cause Analysis & Troubleshooting:** Methodical investigation of system behavior, network connectivity, and log files.
-*   **Technical Writing & Documentation:** Authoring user guides and manuals to streamline support and foster client self-sufficiency.
-*   **Stakeholder & Crisis Management:** Communicating complex issues clearly under tight deadlines and resolving critical escalation paths.
-
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -48,19 +26,6 @@ I am actively expanding my knowledge base to support enterprise-level systems:
 | **Cybersecurity 101 (TryHackMe)** | **In Progress** - Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals. |
 | **Cloud Infrastructure (Alura / AWS)** | **Completed** - AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management. |
 | **Java Programming & OOP (Udemy / FIAP)** | **Completed** - Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases. |
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="left">
-  <a href="https://github.com/isramedeiros">
-    <img src="https://github-stats-extended.vercel.app/api?username=isramedeiros&show_icons=true&theme=nord&count_private=true" alt="Israel's GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/isramedeiros">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isramedeiros&layout=compact&theme=nord" alt="Top Languages" height="150" />
-  </a>
-</p>
 
 ---
 
