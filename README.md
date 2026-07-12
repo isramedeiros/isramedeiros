@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><b>Advisory & Communication</b></td>
-    <td><img src="https://img.shields.io/badge/Advisory%20%26%20Communication-Professional-0052CC?style=flat-square&logo=readme&logoColor=white" alt="Advisory & Communication"></td>
+    <td><img src="https://img.shields.io/badge/Advisory%20%26%20Communication-%E2%9C%8D%EF%B8%8F-0052CC?style=flat-square" alt="Advisory & Communication"></td>
     <td>Technical writing (user manuals/documentation), client onboarding, stakeholder management, crisis response</td>
   </tr>
 </table>
@@ -42,23 +42,23 @@
 <table>
   <tr>
     <td width="40%"><b>Cisco Certified Network Associate (CCNA 200-301)</b></td>
-    <td width="60%"><b>In Progress</b> - Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI).</td>
+    <td width="60%">Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI). - <i>In Progress</i></td>
   </tr>
   <tr>
     <td><b>DevOps Principles & Practices</b></td>
-    <td><b>In Progress</b> - Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation.</td>
+    <td>Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation. - <i>In Progress</i></td>
   </tr>
   <tr>
     <td><b>Cybersecurity 101 (TryHackMe)</b></td>
-    <td><b>In Progress</b> - Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals.</td>
+    <td>Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals. - <i>In Progress</i></td>
   </tr>
   <tr>
     <td><b>Cloud Infrastructure (Alura / AWS)</b></td>
-    <td><b>Completed</b> - AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management.</td>
+    <td>AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management. - <i>Completed</i></td>
   </tr>
   <tr>
     <td><b>Java Programming & OOP (Udemy / FIAP)</b></td>
-    <td><b>Completed</b> - Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases.</td>
+    <td>Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases. - <i>Completed</i></td>
   </tr>
 </table>
 
