@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><b>Software & Databases</b></td>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"></td>
     <td>Spring Boot, REST APIs, SQL (Oracle, MySQL), MongoDB, Firebase</td>
   </tr>
   <tr>
@@ -41,23 +41,28 @@
 
 <table>
   <tr>
-    <td width="40%"><b>⏳ Cisco Certified Network Associate (CCNA 200-301)</b></td>
+    <td width="5%" align="center">⏳</td>
+    <td width="35%"><b>Cisco Certified Network Associate (CCNA 200-301)</b></td>
     <td width="60%">Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI).</td>
   </tr>
   <tr>
-    <td><b>⏳ DevOps Principles & Practices</b></td>
+    <td align="center">⏳</td>
+    <td><b>DevOps Principles & Practices</b></td>
     <td>Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation.</td>
   </tr>
   <tr>
-    <td><b>⏳ Cybersecurity 101 (TryHackMe)</b></td>
+    <td align="center">⏳</td>
+    <td><b>Cybersecurity 101 (TryHackMe)</b></td>
     <td>Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals.</td>
   </tr>
   <tr>
-    <td><b>✅ Cloud Infrastructure (Alura / AWS)</b></td>
+    <td align="center">✅</td>
+    <td><b>Cloud Infrastructure (Alura / AWS)</b></td>
     <td>AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management.</td>
   </tr>
   <tr>
-    <td><b>✅ Java Programming & OOP (Udemy / FIAP)</b></td>
+    <td align="center">✅</td>
+    <td><b>Java Programming & OOP (Udemy / FIAP)</b></td>
     <td>Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases.</td>
   </tr>
 </table>
