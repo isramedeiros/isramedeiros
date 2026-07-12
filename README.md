@@ -1,6 +1,6 @@
-# Hi there, I'm Israel! 👋
+# Hi there, I'm Israel!
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -13,9 +13,7 @@
 
 ---
 
-### 📚 Certification & Continuous Learning Tracker
-
-I am actively expanding my knowledge base to support enterprise-level systems:
+### Certification & Learning
 
 | Certifications & Studies | Status / Details |
 | :--- | :--- |
@@ -27,7 +25,7 @@ I am actively expanding my knowledge base to support enterprise-level systems:
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 *   **LinkedIn:** [linkedin.com/in/israelmedeiros/](https://www.linkedin.com/in/israelmedeiros/)
 *   **E-mail:** [israelmfreitas12@gmail.com](mailto:israelmfreitas12@gmail.com)
