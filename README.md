@@ -41,24 +41,24 @@
 
 <table>
   <tr>
-    <td width="40%"><b>Cisco Certified Network Associate (CCNA 200-301)</b></td>
-    <td width="60%">Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI). - <i>In Progress</i></td>
+    <td width="40%"><b>⏳ Cisco Certified Network Associate (CCNA 200-301)</b></td>
+    <td width="60%">Deepening understanding of IP connectivity, routing protocols (OSPFv2), VLANs, EtherChannel, and network security (ACLs, DHCP Snooping, DAI).</td>
   </tr>
   <tr>
-    <td><b>DevOps Principles & Practices</b></td>
-    <td>Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation. - <i>In Progress</i></td>
+    <td><b>⏳ DevOps Principles & Practices</b></td>
+    <td>Studying and practicing CI/CD pipelines, Infrastructure as Code (IaC), container lifecycle orchestration, and deployment automation.</td>
   </tr>
   <tr>
-    <td><b>Cybersecurity 101 (TryHackMe)</b></td>
-    <td>Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals. - <i>In Progress</i></td>
+    <td><b>⏳ Cybersecurity 101 (TryHackMe)</b></td>
+    <td>Mastering Linux shells, PowerShell scripting, Active Directory basics, and cloud security fundamentals.</td>
   </tr>
   <tr>
-    <td><b>Cloud Infrastructure (Alura / AWS)</b></td>
-    <td>AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management. - <i>Completed</i></td>
+    <td><b>✅ Cloud Infrastructure (Alura / AWS)</b></td>
+    <td>AWS Cloud foundations, EC2 instance management, Security Groups, and SSH key management.</td>
   </tr>
   <tr>
-    <td><b>Java Programming & OOP (Udemy / FIAP)</b></td>
-    <td>Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases. - <i>Completed</i></td>
+    <td><b>✅ Java Programming & OOP (Udemy / FIAP)</b></td>
+    <td>Object-oriented programming, Spring Boot frameworks, JDBC, and SQL databases.</td>
   </tr>
 </table>
 
