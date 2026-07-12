@@ -1,7 +1,5 @@
 # Hi there, I'm Israel! 👋
 
----
-
 ### 🛠️ Tech Stack & Skills
 
 | Domain | Technologies |
