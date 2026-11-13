@@ -1,7 +1,5 @@
 # israel@192.168.0.1
 
-**Segurança da Informação & Auditoria em TI | LGPD e ISO 27001 | Automação | Python | Shell**
-
 Analista de Sistemas (**FIAP**) com foco em **Cibersegurança e Auditoria em TI**. Unindo a base tecnológica à capacidade analítica do jornalismo investigativo, aplico rigor na coleta de evidências, comunicação clara e gestão de crises para auditar processos, investigar eventos de segurança e solucionar problemas. Atualmente, busco aprimoramento contínuo em *compliance*, infraestrutura e governança de TI.
 
 ---
