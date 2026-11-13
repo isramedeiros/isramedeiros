@@ -100,11 +100,6 @@ Analista de Sistemas (**FIAP**) com foco em **Cibersegurança e Auditoria em TI*
   </tr>
   <tr>
     <td align="center">⏳</td>
-    <td><b>Cisco Certified Network Associate (CCNA 200-301)</b></td>
-    <td>Conectividade IP, protocolos de roteamento (OSPFv2), VLANs, EtherChannel, firewalls e segurança de rede (ACLs, DHCP Snooping, DAI).</td>
-  </tr>
-  <tr>
-    <td align="center">⏳</td>
     <td><b>Cybersecurity & Operações SOC (TryHackMe)</b></td>
     <td>Resposta a incidentes, triagem de alertas, administração Linux e PowerShell, Active Directory e fundamentos de segurança em nuvem.</td>
   </tr>
